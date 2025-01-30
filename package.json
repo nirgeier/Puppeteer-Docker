@@ -1,0 +1,9 @@
+{
+  "name": "puppeteer-screenshot",
+  "version": "1.0.0",
+  "main": "screenshot.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^24.1.1"
+  }
+}
